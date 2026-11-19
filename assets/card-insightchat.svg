@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="588" height="250" viewBox="0 0 588 250" role="img" aria-label="InsightChat">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0e1319"/><stop offset="1" stop-color="#07090c"/></linearGradient><radialGradient id="g" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#38bdf8" stop-opacity="0.22"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24.5 0.5H0.5V24.5" fill="none" stroke="#fff" stroke-opacity="0.07"/></pattern><clipPath id="cp"><rect x="0.5" y="0.5" width="587" height="249" rx="8"/></clipPath></defs>
+<rect x="0.5" y="0.5" width="587" height="249" rx="8" fill="url(#bg)"/>
+<g clip-path="url(#cp)"><rect x="0" y="0" width="588" height="250" fill="url(#grid)"/><ellipse cx="518" cy="100" rx="260" ry="150" fill="url(#g)"/></g>
+<rect x="0.5" y="0.5" width="587" height="249" rx="8" fill="none" stroke="#1f2630"/>
+<text x="22" y="32" font-family="'SF Mono','JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#7d8794">01</text>
+<text x="46" y="32" font-family="'SF Mono','JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#e6e9ee">product-insight-chat-mistral</text>
+<text x="566" y="32" text-anchor="end" font-family="'SF Mono','JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#38bdf8">view repo ↗</text>
+<line x1="0" y1="46" x2="588" y2="46" stroke="#1f2630"/>
+<circle cx="438" cy="80" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="452" cy="80" r="1.6" fill="#38bdf8" fill-opacity="0.25"/>
+<circle cx="466" cy="80" r="1.6" fill="#38bdf8" fill-opacity="0.54"/>
+<circle cx="480" cy="80" r="1.6" fill="#38bdf8" fill-opacity="0.65"/>
+<circle cx="494" cy="80" r="1.6" fill="#38bdf8" fill-opacity="0.46"/>
+<circle cx="508" cy="80" r="1.6" fill="#38bdf8" fill-opacity="0.18"/>
+<circle cx="522" cy="80" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="536" cy="80" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="550" cy="80" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="438" cy="94" r="1.6" fill="#38bdf8" fill-opacity="0.16"/>
+<circle cx="452" cy="94" r="1.6" fill="#38bdf8" fill-opacity="0.44"/>
+<circle cx="466" cy="94" r="1.6" fill="#38bdf8" fill-opacity="0.64"/>
+<circle cx="480" cy="94" r="1.6" fill="#38bdf8" fill-opacity="0.55"/>
+<circle cx="494" cy="94" r="1.6" fill="#38bdf8" fill-opacity="0.27"/>
+<circle cx="508" cy="94" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="522" cy="94" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="536" cy="94" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="550" cy="94" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="438" cy="108" r="1.6" fill="#38bdf8" fill-opacity="0.33"/>
+<circle cx="452" cy="108" r="1.6" fill="#38bdf8" fill-opacity="0.60"/>
+<circle cx="466" cy="108" r="1.6" fill="#38bdf8" fill-opacity="0.62"/>
+<circle cx="480" cy="108" r="1.6" fill="#38bdf8" fill-opacity="0.38"/>
+<circle cx="494" cy="108" r="1.6" fill="#38bdf8" fill-opacity="0.13"/>
+<circle cx="508" cy="108" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="522" cy="108" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="536" cy="108" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="550" cy="108" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="438" cy="122" r="1.6" fill="#38bdf8" fill-opacity="0.51"/>
+<circle cx="452" cy="122" r="1.6" fill="#38bdf8" fill-opacity="0.65"/>
+<circle cx="466" cy="122" r="1.6" fill="#38bdf8" fill-opacity="0.49"/>
+<circle cx="480" cy="122" r="1.6" fill="#38bdf8" fill-opacity="0.20"/>
+<circle cx="494" cy="122" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="508" cy="122" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="522" cy="122" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="536" cy="122" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="550" cy="122" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="438" cy="136" r="1.6" fill="#38bdf8" fill-opacity="0.63"/>
+<circle cx="452" cy="136" r="1.6" fill="#38bdf8" fill-opacity="0.57"/>
+<circle cx="466" cy="136" r="1.6" fill="#38bdf8" fill-opacity="0.30"/>
+<circle cx="480" cy="136" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="494" cy="136" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="508" cy="136" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="522" cy="136" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="536" cy="136" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="550" cy="136" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="438" cy="150" r="1.6" fill="#38bdf8" fill-opacity="0.63"/>
+<circle cx="452" cy="150" r="1.6" fill="#38bdf8" fill-opacity="0.41"/>
+<circle cx="466" cy="150" r="1.6" fill="#38bdf8" fill-opacity="0.15"/>
+<circle cx="480" cy="150" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="494" cy="150" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="508" cy="150" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="522" cy="150" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="536" cy="150" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="550" cy="150" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="438" cy="164" r="1.6" fill="#38bdf8" fill-opacity="0.51"/>
+<circle cx="452" cy="164" r="1.6" fill="#38bdf8" fill-opacity="0.22"/>
+<circle cx="466" cy="164" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="480" cy="164" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="494" cy="164" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="508" cy="164" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="522" cy="164" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="536" cy="164" r="1.6" fill="#38bdf8" fill-opacity="0.10"/>
+<circle cx="550" cy="164" r="1.6" fill="#38bdf8" fill-opacity="0.13"/>
+<text x="22" y="104" font-family="'Inter','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="30" font-weight="300" fill="#e6e9ee" letter-spacing="-0.5">InsightChat</text>
+<text x="22" y="138" font-family="'Inter','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14.5" fill="#7d8794">LLM-based UX analysis of e-commerce sessions,</text>
+<text x="22" y="160" font-family="'Inter','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14.5" fill="#7d8794">with a chat to explore the insights.</text>
+<rect x="22" y="200" width="72" height="24" rx="12" fill="#0f1216" stroke="#1f2630"/>
+<text x="32" y="216" font-family="'SF Mono','JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#e6e9ee">FastAPI</text>
+<rect x="101.8" y="200" width="72" height="24" rx="12" fill="#0f1216" stroke="#1f2630"/>
+<text x="111.8" y="216" font-family="'SF Mono','JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#e6e9ee">Next.js</text>
+<rect x="181.6" y="200" width="101" height="24" rx="12" fill="#0f1216" stroke="#1f2630"/>
+<text x="191.6" y="216" font-family="'SF Mono','JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#e6e9ee">Mistral API</text>
+<rect x="290.4" y="200" width="94" height="24" rx="12" fill="#0f1216" stroke="#1f2630"/>
+<text x="300.4" y="216" font-family="'SF Mono','JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#e6e9ee">TypeScript</text>
+</svg>
