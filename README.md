@@ -4,6 +4,4 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kevin-meledje">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.figma.com/design/v5NmqWNmnr8r1cbiaW0Fmu/Mon-Travail">Figma portfolio</a>
 </p>
